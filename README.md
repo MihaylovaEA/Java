@@ -57,4 +57,4 @@
 ##### __Не забудьте закрыть соединение с файлом.__
 ##### При возникновении проблемы с чтением-записью в файл, исключение должно быть корректно обработано, пользователь должен увидеть стектрейс ошибки.
 
-### _[Решение задачи]([https://github.com/MihaylovaEA/Java/tree/main/Java_Exception_HW3_Control)_
+### _[Решение задачи](https://github.com/MihaylovaEA/Java/tree/main/Java_Exception_HW3_Control)_
